@@ -1,0 +1,19 @@
+
+#h2{
+    color:yellow;
+    font-family:planet kosmos;
+    font-size:200%;
+}
+body{
+    background:url("image/blossom.jpg");
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+table, th, td{
+    border:0px solid black;
+    text-align: left;
+}
+
+
